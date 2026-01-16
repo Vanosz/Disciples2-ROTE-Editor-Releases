@@ -8,6 +8,8 @@ A WinForms editor for **Disciples II: Rise of the Elves** that allows you to vie
 
 ## ✨ Features
 
+⚠️Disclaimer: Most of the described functions have **hotkeys** for tools and for their functions 
+
 ### ✅ Unit editing
 - Browse units and edit core stats:
   - HP, Armor, Regen
