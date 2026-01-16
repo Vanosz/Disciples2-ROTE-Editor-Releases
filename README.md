@@ -51,9 +51,10 @@ For advanced users: you could insert the script into the installation process of
 ### ✅ Simple DB editor
 Save your time and give you access to the DBs of the game for manual editing. The function "save" is present
 
-### ✅ Simple Internet Browser inside the **HELP menu**, you could use it if you need to search for something. 
+### ✅ Simple Internet Browser 
+Inside the **HELP menu**, you could use the help window like a inet browser if you need to search for something. 
 It doesn't have most of the functions of browsers, but still useful for simple searches. 
-Has a **"HOME"** button for returning to the help window
+Has a **"HOME"** button for returning to the help window.
 
 ---
 ## 📦 Installation
