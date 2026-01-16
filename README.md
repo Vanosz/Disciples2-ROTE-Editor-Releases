@@ -12,7 +12,7 @@ A WinForms editor for **Disciples II: Rise of the Elves** that allows you to vie
 
 ### ✅ Translations
 The editor's main menu language will be according to the internal language of the game.
-The tools or functions in English
+The tools or functions in English. The translations of the **MODS** could be broken, but it is just a description. Main functions are still available.
 
 ### ✅ Unit editing
 - Browse units and edit core stats:
@@ -56,7 +56,7 @@ For advanced users: you could insert the script into the installation process of
 Save your time and give you access to the DBs of the game for manual editing. The function "save" is present
 
 ### ✅ Simple Internet Browser 
-Inside the **HELP menu**, you could use the help window like a inet browser if you need to search for something. 
+Inside the **HELP menu**, you could use the help window like an internet browser if you need to search for something. 
 It doesn't have most of the functions of browsers, but still useful for simple searches. 
 Has a **"HOME"** button for returning to the help window.
 
