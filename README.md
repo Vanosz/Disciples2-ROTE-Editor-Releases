@@ -130,7 +130,15 @@ Use at your own risk.
 ---
 
 ## 📸 Screenshots
-(you can add screenshots here)
+
+### Main menu
+<img width="1145" height="912" alt="image" src="https://github.com/user-attachments/assets/e447a9eb-6445-425a-bf25-7b9554b257a2" />
+
+### Backup Manager
+<img width="1082" height="641" alt="image" src="https://github.com/user-attachments/assets/4a2da7f2-3501-46bb-a141-38b6a0231b82" />
+
+### Simple DB Editor
+<img width="2278" height="1228" alt="image" src="https://github.com/user-attachments/assets/4325e76a-d4f2-44ca-b0a5-5567610dc1ba" />
 
 ---
 
