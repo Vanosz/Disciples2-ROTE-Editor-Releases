@@ -2,7 +2,7 @@
 
 A WinForms editor for **Disciples II: Rise of the Elves** that allows you to view and modify game data (units, attacks, stats, and more) using a safe workflow: **load → edit → review changes → save**.
 
-> ⚠️ This tool edits game DBF files. Always keep backups and test changes carefully.
+> ⚠️ This tool aimed on Disciples II: Rise of the Elves but you also could use it to modify\edit **another versions** of Disciples2, **MODS** or even create your own mode.
 
 ---
 
