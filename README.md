@@ -2,7 +2,7 @@
 
 A WinForms editor for **Disciples II: Rise of the Elves** that allows you to view and modify game data (units, attacks, stats, and more) using a safe workflow: **load → edit → review changes → save**.
 
-> ⚠️ This tool aimed on Disciples II: Rise of the Elves but you also could use it to modify\edit **another versions** of Disciples2, **MODS** or even create your own mode.
+> ⚠️ This tool is aimed at Disciples II: Rise of the Elves, but you also could use it to modify/edit **another versions** of Disciples2, **MODS**, or even create your own mode.
 
 ---
 
@@ -20,7 +20,7 @@ A WinForms editor for **Disciples II: Rise of the Elves** that allows you to vie
 ### ✅ Smart change tracking (per unit)
 - Highlights changed fields directly in the UI
 - Supports editing multiple units before saving
-- Save list shows what will be applied
+- The save list shows what will be applied
 - Changes are grouped per unit for clarity
 
 ### ✅ Safe save workflow
@@ -51,7 +51,7 @@ Hidden “Debug Settings” contains experimental tools (for advanced users).
 - A copy of **Disciples II: Rise of the Elves** installed
 
 ### Download
-Go to the **Releases** page of this repository and download the latest build.
+Go to the [**Releases**](https://github.com/Vanosz/Disciples2-ROTE-Editor-Releases/releases) page of this repository and download the latest build.
 
 ---
 
@@ -61,7 +61,7 @@ Go to the **Releases** page of this repository and download the latest build.
 1. Launch the editor
 2. Click **Open**
 3. Select your `Disciples2.exe` file  
-   The editor will detect and load required DB data.
+   The editor will detect and load the required DB data.
 
 ### 2) Edit units
 - Select a unit from the unit list
@@ -75,7 +75,7 @@ Open the **Save changes** window to review:
 - Before → After values
 
 ### 4) Save changes
-Click **Save** to apply edits into the DB files.
+Click **Save** to apply edits to the DB files.
 
 ---
 
@@ -99,7 +99,7 @@ This restores only the currently opened unit to the values loaded at session sta
 3. Repeat  
 
 If you do big edits:
-- Use Change History / backups
+- Use Change History/backups
 - Prefer incremental saves instead of doing everything at once
 
 ---
@@ -144,4 +144,4 @@ Use at your own risk.
 
 ## ❤️ Credits
 - Inspired by community modding tools and reverse engineering work
-- Built by **Vanosz**
+- Built by **Vano_sz**
