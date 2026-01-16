@@ -38,11 +38,18 @@ A WinForms editor for **Disciples II: Rise of the Elves** that allows you to vie
 - Stores steps in history so you can restore previous states
 - Helps prevent accidental edits and allows safe rollback
 
-### ✅ Debug tools (optional)
-Hidden “Debug Settings” contains experimental tools (for advanced users).
+### ✅ Debug settings (optional)
+“Debug Settings” contains experimental tools (for advanced users).
+
+### ✅ Script manager
+Gives you the possibility to create a dedicated patch for your changes (if you want to apply them to some mode, campaign, or map that you created)
+That function allows you to install those changes and return them to the default (without the editor). 
+For advanced users: you could insert the script into the installation process of your setup.
+
+### ✅ Simple DB editor
+Save your time and give you access to the DBs of the game for manual editing. The function "save" is present
 
 ---
-
 ## 📦 Installation
 
 ### Requirements
@@ -60,7 +67,7 @@ Go to the [**Releases**](https://github.com/Vanosz/Disciples2-ROTE-Editor-Releas
 ### 1) Open the game
 1. Launch the editor
 2. Click **Open**
-3. Select your `Disciples2.exe` file  
+3. Select your `Discipl2.exe` file  
    The editor will detect and load the required DB data.
 
 ### 2) Edit units
@@ -104,28 +111,11 @@ If you do big edits:
 
 ---
 
-## 🛠️ Development (for contributors)
-
-### Build
-1. Clone the repo
-2. Open the solution in Visual Studio
-3. Build in `Release` mode
-4. Run the editor
-
-### Code structure notes
-- WinForms UI is built around data grids + change tracking
-- Editing workflow uses:
-  - per-unit snapshots
-  - per-unit pending changes
-  - baseline comparison for highlighting
-
----
-
 ## ⚠️ Disclaimer
 This project is a fan-made tool for modding and learning.  
 Not affiliated with the original developers of Disciples II.
 
-Use at your own risk.
+You can use it at your own risk.
 
 ---
 
