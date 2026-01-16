@@ -128,7 +128,8 @@ You can use it at your own risk.
 <img width="1082" height="641" alt="image" src="https://github.com/user-attachments/assets/4a2da7f2-3501-46bb-a141-38b6a0231b82" />
 
 ### Simple DB Editor
-<img width="2278" height="1228" alt="image" src="https://github.com/user-attachments/assets/4325e76a-d4f2-44ca-b0a5-5567610dc1ba" />
+<img width="2278" height="1228" alt="image" src="https://github.com/user-attachments/assets/a4914ca3-b81e-47ad-8437-e9fe8a22f9fc" />
+
 
 ---
 
