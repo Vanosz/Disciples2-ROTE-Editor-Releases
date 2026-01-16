@@ -150,3 +150,4 @@ You can use it at your own risk.
 ## ❤️ Credits
 - Inspired by community modding tools and reverse engineering work
 - Built by **Vano_sz**
+- [Support developer](https://ko-fi.com/vano_sz)
