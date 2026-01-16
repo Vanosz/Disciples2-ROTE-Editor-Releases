@@ -56,6 +56,9 @@ Inside the **HELP menu**, you could use the help window like a inet browser if y
 It doesn't have most of the functions of browsers, but still useful for simple searches. 
 Has a **"HOME"** button for returning to the help window.
 
+### ✅ About menu
+Has a checker for the new version of the editor. If the new version becomes available, you will receive a message about this and a direct link to download it
+
 ---
 ## 📦 Installation
 
