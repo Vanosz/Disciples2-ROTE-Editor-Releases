@@ -11,7 +11,8 @@ A WinForms editor for **Disciples II: Rise of the Elves** that allows you to vie
 ⚠️Disclaimer: Most of the described parts of the editor have **hotkeys** for tools and for their functions 
 
 ### ✅ Translations
-The editor's menu language will be according to the internal language of the game.
+The editor's main menu language will be according to the internal language of the game.
+The tools or functions in English
 
 ### ✅ Unit editing
 - Browse units and edit core stats:
