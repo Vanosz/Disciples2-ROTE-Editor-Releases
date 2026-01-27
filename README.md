@@ -11,7 +11,7 @@ A WinForms editor for **Disciples II: Rise of the Elves** that allows you to vie
 ⚠️Disclaimer: Most of the described parts of the editor have **hotkeys** for tools and for their functions 
 
 ### ✅ Translations
-The editor's main menu language will be according to the internal language of the game.
+The editor's main menu language will be set according to the game's internal language.
 The tools or functions in English. The translations of the **MODS** could be broken, but it is just a description. Main functions are still available.
 
 ### ✅ Unit editing
@@ -32,6 +32,7 @@ The tools or functions in English. The translations of the **MODS** could be bro
 - **Media Explorer** (Media → Media Explorer)
   - Browse sound containers `*.wdb` / `*.wdt` plus folders: **SoundsP**, **MusicP**, **Music**, **Briefing**, **Video**
   - Play audio and preview videos inside the window (and also open externally)
+    > All data could be exported to a clear format (editing, modifying)
 
 ### ✅ Smart change tracking (per unit)
 - Highlights changed fields directly in the UI
@@ -67,7 +68,7 @@ Save your time and give you access to the DBs of the game for manual editing. Th
 
 ### ✅ Simple Internet Browser 
 Inside the **HELP menu**, you could use the help window like an internet browser if you need to search for something. 
-It doesn't have most of the functions of browsers, but still useful for simple searches. 
+It doesn't have most of the functions of browsers, but it is still useful for simple searches. 
 Has a **"HOME"** button for returning to the help window.
 
 ### ✅ About menu
