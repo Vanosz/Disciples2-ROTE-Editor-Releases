@@ -22,6 +22,16 @@ The tools or functions in English. The translations of the **MODS** could be bro
 - Edit unit descriptions and combat-related fields
 - Edit Attack 1 / Attack 2 links and related parameters
 - View unit portrait preview (from game resources)
+- **Double-click** the unit portrait to open **Media → Resource Explorer** and jump to the unit’s **FACEB** image in **Faces.ff**
+
+### ✅ Media (browse & preview game assets)
+- **Resource Explorer** (Media → Resource Explorer)
+  - Browse `*.ff` files from **Imgs\** and **Interf\**
+  - Fast filtering/search by file name and item name (e.g., `FACEB`, `0177`)
+  - Preview images/animations and export selected items (if enabled in your build)
+- **Media Explorer** (Media → Media Explorer)
+  - Browse sound containers `*.wdb` / `*.wdt` plus folders: **SoundsP**, **MusicP**, **Music**, **Briefing**, **Video**
+  - Play audio and preview videos inside the window (and also open externally)
 
 ### ✅ Smart change tracking (per unit)
 - Highlights changed fields directly in the UI
