@@ -94,6 +94,7 @@ Go to the [**Releases**](https://github.com/Vanosz/Disciples2-ROTE-Editor-Releas
 2. Click **Open**
 3. Select your `Discipl2.exe` file  
    The editor will detect and load the required DB data.
+   > If the version of D2 is old, then rename the main exe to `Discipl2.exe`
 
 ### 2) Edit units
 - Select a unit from the unit list
