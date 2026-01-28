@@ -148,7 +148,7 @@ You can use it at your own risk.
 ## 📸 Screenshots
 
 ### Main menu
-<img width="1145" height="912" alt="image" src="https://github.com/user-attachments/assets/e447a9eb-6445-425a-bf25-7b9554b257a2" />
+<img width="1145" height="912" alt="image" src="https://github.com/user-attachments/assets/f899c33f-7fbe-4fa3-9124-72c8d737df0c" />
 
 ### Backup Manager
 <img width="1082" height="641" alt="image" src="https://github.com/user-attachments/assets/4a2da7f2-3501-46bb-a141-38b6a0231b82" />
@@ -156,6 +156,8 @@ You can use it at your own risk.
 ### Simple DB Editor
 <img width="2278" height="1228" alt="image" src="https://github.com/user-attachments/assets/a4914ca3-b81e-47ad-8437-e9fe8a22f9fc" />
 
+### Multimedia viewer
+<img width="1132" height="1458" alt="image" src="https://github.com/user-attachments/assets/c04ed295-9e8b-48d2-99b1-1ff9db31051e" />
 
 ---
 
